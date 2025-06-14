@@ -79,7 +79,7 @@ Você pode expandir o BlueWatcher adicionando novos módulos de exploração, in
 
 ## Autor
 
-Criado com ajuda do ChatGPT.
+SHASHIBUKAY.
 
 ---
 
